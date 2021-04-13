@@ -1,5 +1,5 @@
 # Hi there, I'm Joao Pedro 👋
-Currently, a Computer Science student [@UFPE](https://www.cin.ufpe.br).
+Currently, a Computer Science student [@UFPE](https://www3.cin.ufpe.br/en/).
 
 ## 😆 Quick facts about me
 ❤️ I love **open source** and **learning new things**.
