@@ -7,9 +7,9 @@ Currently, a Software Engineer [@CESAR](https://www.cesar.org.br/en) and a Compu
 🔁 **Red, green, refactor** fan.
 
 ## 💻 Major projects
-- [**mach**](https://jpedroh.github.io/mach/): a flight simulation tool that allows you to retrieve information from brazilian flights in a very intuitive way. 
+- [**mach**](https://mach.jpedroh.dev/): a flight simulation tool that allows you to retrieve information from brazilian flights in a very intuitive way. 
 
-> Front-end built with React and TailwindCSS. Back-end implemented as a REST API built with NodeJS, ExpressJS and Sequelize. CI/CD implemented using GitHub Actions.
+> Front-end built using NextJS 13 and RSCs. Back-end implemented in NodeJS using Vercel serverless functions and Sequelize. CI/CD implemented using GitHub Actions.
 
 - [**ivao-whazzup**](https://github.com/jpedroh/ivao-whazzup/): a JavaScript wrapper for [IVAO's Whazzup API](https://wiki.ivao.aero/en/home/devops/api/whazuup/status-file-format).
 
