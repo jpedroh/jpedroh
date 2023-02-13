@@ -1,5 +1,5 @@
 # Hi there, I'm Joao Pedro 👋
-Currently, a Software Engineer [@CESAR](https://www.cesar.org.br/en) and a Computer Science student [@UFPE](https://www3.cin.ufpe.br/en/).
+A Computer Scientist (UFPE) currently working as a Frontend Engineer with experience in Angular and React.
 
 ## 😆 Quick facts about me
 ❤️ I love **open source** and **learning new things**.
@@ -11,9 +11,9 @@ Currently, a Software Engineer [@CESAR](https://www.cesar.org.br/en) and a Compu
 
 > Front-end built using NextJS 13 and RSCs. Back-end implemented in NodeJS using Vercel serverless functions and Sequelize. CI/CD implemented using GitHub Actions.
 
-- [**ivao-whazzup**](https://github.com/jpedroh/ivao-whazzup/): a JavaScript wrapper for [IVAO's Whazzup API](https://wiki.ivao.aero/en/home/devops/api/whazuup/status-file-format).
+- [**reading-list**](https://reading-list.jpedroh.dev): a personal reading list to save interesting articles regarding Software Engineering.
 
-> Built with TypeScript as an exercise for TDD with Jest. Automatic versioning and deploy to NPM registry using Semantic Versioning and GitHub Actions.
+> Full stack application built using Next 13, React Server Components, Serverless API routes and Jotai for client side state management. Authentication with OTP using Google Authenticator. Deployed in Vercel using Terraform to provision infrastructure.
 
 ## 📜 What have I been coding with?
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedroh&layout=compact" />
