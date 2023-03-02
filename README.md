@@ -16,7 +16,7 @@ A Computer Scientist (UFPE) currently working as a Frontend Engineer with experi
 > Full stack application built using Next 13, React Server Components, Serverless API routes, Postgres and Jotai for client side state management. Authentication with OTP using Google Authenticator. Deployed in Vercel using Terraform to provision infrastructure.
 
 ## 📜 What have I been coding with?
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedroh&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedroh&layout=compact&hide=TeX&langs_count=10&hide_title=true" />
 
 ## 📫 Get in touch
 - Linkedin: https://www.linkedin.com/in/jpedroh/
