@@ -20,4 +20,4 @@ A Computer Scientist (UFPE) currently working as a Frontend Engineer with experi
 
 ## 📫 Get in touch
 - Linkedin: https://www.linkedin.com/in/jpedroh/
-- Personal site: https://jpedroh.github.io/
+- Personal site: https://jpedroh.dev/
