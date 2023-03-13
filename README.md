@@ -1,5 +1,5 @@
 # Hi there, I'm Joao Pedro 👋
-A Computer Scientist (UFPE) currently working as a Frontend Engineer with experience in Angular and React.
+A Computer Scientist (UFPE) currently working as a Frontend Engineer with experience in Angular, React and Microfrontends.
 
 ## 😆 Quick facts about me
 ❤️ I love **open source** and **learning new things**.
