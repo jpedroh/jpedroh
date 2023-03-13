@@ -1,8 +1,6 @@
 # Hi there, I'm Joao Pedro 👋
 A Computer Scientist (UFPE) currently working as a Frontend Engineer with experience in Angular, React and Microfrontends.
 
-🔁 **Red, green, refactor** fan.
-
 ## 💻 Major projects
 - [**mach**](https://mach.jpedroh.dev/): a flight simulation tool that allows you to retrieve information from brazilian flights in a very intuitive way. 
 
