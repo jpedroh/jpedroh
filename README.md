@@ -4,17 +4,18 @@ A Computer Scientist (UFPE) currently working as a Frontend Engineer with experi
 ## 💼 Professional Experience
 
 ### Software Engineer - CESAR - from September/2021 til January/2023
-- Worked mainly as a React and Angular frontend developer.
-- Worked in specifying and implementing scalable architectures for front-end applications.
-- I’ve worked in a solution for the financial sector of a tech corporation impacting more than 5000 users.
-- Planned and coordinated a migration of a legacy frontend codebase of around 500k LOC using micro-frontends architecture. (Angular + React + SingleSPA).
-- Built frontend unit tests using Testing Library.
+- Worked as React and Angular developer in solutions that impacted more than 10000 users worldwide. 
+- Specified and implemented scalable architectures for front-end applications.
+- Planned and coordinated a migration of a legacy frontend application using micro-frontends architecture. (Angular + React + SingleSPA).
+- Built unit tests using Testing Library and Jest.
+- IaC automations with AWS CDK.
+- Mentorship of interns and junior developers.
 
 ### Intern in Software Development - Viitra Inovações - June/2021 til September/2021
-- I’ve worked in the architecture and development of a POC for the Brazilian Justice focused in data visualization.
-- Implemented automated integration test suites using Cypress.
+- Architecture and development of a POC for the Brazilian Justice focused in data visualization.
+- Implemented integration test suites using Cypress.
 - Built pipelines in Gitlab for CI and CD.
-- Managed deployment using Docker, VMs e Kubernetes.
+- Deployment using Docker, VMs and Kubernetes.
 
 ## 💻 Side projects
 - [**mach**](https://mach.jpedroh.dev/): a flight simulation tool that allows you to retrieve information from brazilian flights in a very intuitive way. 
@@ -23,7 +24,7 @@ A Computer Scientist (UFPE) currently working as a Frontend Engineer with experi
 
 - [**reading-list**](https://reading-list.jpedroh.dev): a personal reading list to save interesting articles regarding Software Engineering.
 
-> Full stack application built using Next 13, React Server Components, Serverless API routes, Postgres and Jotai for client side state management. Authentication with OTP using Google Authenticator. Deployed in Vercel using Terraform to provision infrastructure.
+> Built using Next.JS 13 with React Server Components and Edge API routes. Styled with Tailwind CSS and client side state managed with Jotai. OTP Authentication with Google Authenticator. Continuous deployment in Vercel with infrastructure management using Terraform. Automated E2E test suite with Playwright.
 
 ## 📜 What have I been coding with?
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedroh&layout=compact&hide=TeX&langs_count=10&hide_title=true" />
