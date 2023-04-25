@@ -1,5 +1,7 @@
 # Hi there, I'm Joao Pedro 👋
-A Computer Scientist (UFPE) currently working as a Frontend Engineer with experience in Angular, React and Microfrontends.
+I’m a Front-end Engineer from Brazil with a passion for building products that matters to people.
+
+Throughout my career, I’ve built scalable web applications in Agile teams using React, NextJS, Angular and micro-frontends.
 
 ## 💼 Professional Experience
 
