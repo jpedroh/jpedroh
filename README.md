@@ -1,5 +1,7 @@
 # Hi there, I'm Joao Pedro 👋
-I’m a Front-end Engineer from Brazil with a passion for building products that matters to people.
+I’m a Senior Software Engineer from Brazil with a passion for building products that matters to people.
+
+Currently, I'm working at [iFood](https://ifood.com.br/), the largest foodtech in Latin America.
 
 Throughout my career, I’ve built scalable web applications in Agile teams using React, NextJS, Angular and micro-frontends.
 
