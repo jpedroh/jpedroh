@@ -31,7 +31,7 @@ Throughout my career, I’ve built scalable web applications in Agile teams usin
 > Built using Next.JS 13 with React Server Components and Edge API routes. Styled with Tailwind CSS and client side state managed with Jotai. OTP Authentication with Google Authenticator. Continuous deployment in Vercel with infrastructure management using Terraform. Automated E2E test suite with Playwright.
 
 ## 📜 What have I been coding with?
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedroh&layout=compact&hide=TeX&langs_count=10&hide_title=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedroh&layout=compact&hide=TeX&hide_title=true" />
 
 ## 📫 Get in touch
 - Linkedin: https://www.linkedin.com/in/jpedroh/
