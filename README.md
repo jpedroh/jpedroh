@@ -1,9 +1,9 @@
 # Hi there, I'm Joao Pedro 👋
-I’m a Senior Software Engineer from Brazil with a passion for building products that matters to people.
+My journey into the world of technology began in the year 2012. At that time, I wanted to personalize my Blogger blog templates and functionalities. Fast-forward to today, and that spark has evolved into a passion for technology both professionally and academically.
 
-Currently, I'm working at [iFood](https://ifood.com.br/), the largest foodtech in Latin America.
+On the professional front, I currently work at [iFood](https://institucional.ifood.com.br/en/), the largest food tech in Latin America, where I architect, build, and maintain products that impact the daily operations of over 350,000 restaurants in Brazil.
 
-Throughout my career, I’ve built scalable web applications in Agile teams using React, NextJS, Angular and micro-frontends.
+Academically, I am a Master's student in Software Engineering at the [Informatics Center](http://www.cin.ufpe.br/) of the Federal University of Pernambuco, Brazil. My research is focused on building, evolving, and experimenting with advanced code merging tools.
 
 ## 💼 Professional Experience
 
